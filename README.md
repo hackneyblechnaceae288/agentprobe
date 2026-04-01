@@ -40,11 +40,19 @@ $ agentprobe test
 ## Quick Start
 
 ```bash
+curl -fsSL https://raw.githubusercontent.com/tomerhakak/agentprobe/main/install.sh | bash
+```
+
+Or with pip:
+```bash
 pip install agentprobe
+```
+
+Then:
+```bash
 agentprobe init
-# Add @record to your agent, write tests with assertions
 agentprobe test
-agentprobe dashboard
+agentprobe platform start   # local web dashboard
 ```
 
 ## Features
