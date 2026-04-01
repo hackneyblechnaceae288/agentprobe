@@ -1,12 +1,22 @@
-"""AgentProbe Brain — opt-in learning system for anonymized agent insights."""
+"""AgentProbe Brain — Smart learning and recommendations engine.
 
-from __future__ import annotations
+The Brain is available in AgentProbe Pro.
+Learn more: https://agentprobe.dev/pro
+"""
 
-from agentprobe.brain.brain import Brain, BrainConfig
-from agentprobe.brain.recommender import Recommendation as BrainInsight
 
-__all__ = [
-    "Brain",
-    "BrainConfig",
-    "BrainInsight",
-]
+class Brain:
+    """AgentProbe Brain — available in AgentProbe Pro.
+
+    The Brain collects anonymized insights from your test runs,
+    learns patterns across your projects, and provides smart
+    recommendations to improve your agents' cost, safety, and quality.
+
+    Upgrade: https://agentprobe.dev/pro
+    """
+
+    def __init__(self, **kwargs):
+        raise NotImplementedError(
+            "Brain is available in AgentProbe Pro. "
+            "Upgrade at https://agentprobe.dev/pro"
+        )
